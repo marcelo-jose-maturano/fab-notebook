@@ -18,3 +18,9 @@ Esse notebook faz uma análise de dados da [base do governo federal](https://www
 ![image](https://github.com/user-attachments/assets/791edf5b-68d1-41eb-978f-dae49824c35e)
 - Quais estados que ocorrem mais acidentes?
 ![image](https://github.com/user-attachments/assets/5fed1c2a-b812-4e79-a986-19785f9c9721)
+
+## Autoavaliação
+
+Foi possível avaliar o número de ocorrências levando em consideração aspectos diversos como: 
+Localização, períodos, status das investigações consolidadas, estados com maior íncidência.
+Os aspectos metereológicos, que é um dado relevante para esclarecimento de causas dos acidentes aéreos, não foi possível implementar neste projeto, pois essa informação não estava disponível na fonte de dados do governo federal (Cenipa).
